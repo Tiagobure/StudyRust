@@ -13,3 +13,4 @@ enum Animal{
     Gato,
     Calopsita,
 }
+// :: dentro do enum pegue um valor
